@@ -1,4 +1,4 @@
-# Power BI Financial Dashboard – 5 Pages × (5 Cards + 5 Charts)
+# Power BI Financial Dashboard – 5 Pages × (5 Cards + 4 Charts)
 
 ## 📊 Project Overview
 
