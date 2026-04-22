@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-A complete Power BI report built with **only default visuals** featuring **5 analysis pages**, each with **5 cards** and **5 charts** – totaling **50 visuals** and **30+ DAX measures**.
+A complete Power BI report built with **only default visuals** featuring **5 analysis pages**, each with **5 cards** and **4 charts** – totaling **50 visuals** and **30+ DAX measures**.
 
 ### Data Source
 Microsoft Financial Sample Excel Workbook
@@ -18,11 +18,11 @@ Microsoft Financial Sample Excel Workbook
 
 | Page | Focus | Cards | Charts |
 |------|-------|-------|--------|
-| 1 | Executive Summary | KPIs (Sales, Profit, Margin, Units, Discount) | Column, Pie, Bar, Line, Gauge |
-| 2 | Product Analysis | Product metrics & top performers | Bar, Stacked Column, Scatter, Ribbon, Waterfall |
-| 3 | Segment & Country | Geographic & segment performance | Column, Bar, 100% Stacked, Map/Table, Matrix |
-| 4 | Time & Trends | MTD, YTD, MoM, YoY trends | Line, Area, Column, Waterfall, Line+Column |
-| 5 | Profitability | Gross profit, discount impact | Column, Stacked Column, Scatter, Line, Treemap |
+| 1 | Executive Summary | KPIs (Sales, Profit, Margin, Units, Discount) | Column, Pie, Bar, Line,  |
+| 2 | Product Analysis | Product metrics & top performers | Bar, Stacked Column, Scatter, Ribbon,  |
+| 3 | Segment & Country | Geographic & segment performance | Column, Bar, 100% Stacked, /Table, Matrix |
+| 4 | Time & Trends | MTD, YTD, MoM, YoY trends | Line, Area, Column, Line+Column |
+| 5 | Profitability | Gross profit, discount impact | Column, Stacked Column, Scatter, Line,  |
 
 ---
 
